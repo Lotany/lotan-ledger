@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: #4c9e9e;
+    height: 60px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left{
+    margin-left: 20px;
+}
+
+.right-section{
+   margin-right: 20px;
+   
+}
