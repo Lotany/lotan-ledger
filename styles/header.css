@@ -11,8 +11,16 @@
     justify-content: space-between;
 }
 
+.logo{
+    font-size: 30px;
+    color: white;
+    font-family: "Roboto", serif;
+    font-weight: 500;
+}
+
 .left{
     margin-left: 20px;
+    color: white;
 }
 
 .right-section{
